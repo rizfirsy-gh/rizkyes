@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rizkyes
+- 👀 I’m interested in design visuals and I will do anything to generate it. Like writing codes for example.
+- 🌱 I’m currently learning javafx for desktop app development
